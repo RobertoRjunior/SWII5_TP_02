@@ -18,8 +18,8 @@ package produto;
 			out.println("<h1>Instituto Federal de Sao Paulo</h1>");
 			out.println("<h2>SISTEMAS WEB I - TP02</h2>");
 			out.println("<h1>Alunos:</h1>");
-			out.println("<h2>Stefany Tam</h2>");
-			out.println("<h2>Eduarda Vitória</h2>");
+			out.println("<h2>Roberto Junior</h2>");
+			out.println("<h2>Mariana C. da Luz</h2>");
 			out.println("<a href='Index.html'>Inicio</a>");
 			out.close();
 		}
