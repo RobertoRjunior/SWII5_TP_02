@@ -1,5 +1,5 @@
 package produto;
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior ; Mariana C. da Luz
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
