@@ -1,4 +1,4 @@
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior ; Mariana C. da Luz
 package produto;
 import java.io.IOException;
 
