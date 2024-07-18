@@ -1,5 +1,5 @@
 package produto;
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior ; Mariana C. da Luz
 public class Produto {
 
 	private long id;
