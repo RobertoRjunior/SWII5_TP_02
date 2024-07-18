@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/NovoProduto")
-//Stefany Tam; Eduarda Vitória
+//Roberto Junior ; Mariana C. da Luz
 public class NovoProdutoServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
