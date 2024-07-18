@@ -7,7 +7,7 @@ package produto;
 	import javax.servlet.http.HttpServlet;
 	import javax.servlet.http.HttpServletRequest;
 	import javax.servlet.http.HttpServletResponse;
-	//Stefany Tam; Eduarda Vitória
+	//Roberto Junior; Mariana C. da Luz
 
 	@WebServlet("/Creditos")
 	public class Creditos extends HttpServlet {
