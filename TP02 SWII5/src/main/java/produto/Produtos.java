@@ -1,5 +1,5 @@
-package produto;
 //Roberto Junior ; Mariana C. da Luz
+package produto;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
