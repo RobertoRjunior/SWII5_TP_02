@@ -1,5 +1,6 @@
-package produto;
 //Roberto Junior ; Mariana C. da Luz
+package produto;
+
 public class Produto {
 
 	private long id;
