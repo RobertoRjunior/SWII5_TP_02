@@ -1,4 +1,4 @@
-//Roberto Junior; Mariana C. da Luz
+//Roberto Junior; 
 	package produto;
 	import java.io.IOException;
 	import java.io.PrintWriter;
@@ -20,7 +20,6 @@
 			out.println("<h2>SISTEMAS WEB I - TP02</h2>");
 			out.println("<h1>Alunos:</h1>");
 			out.println("<h2>Roberto Junior</h2>");
-			out.println("<h2>Mariana C. da Luz</h2>");
 			out.println("<a href='Index.html'>Inicio</a>");
 			out.close();
 		}
