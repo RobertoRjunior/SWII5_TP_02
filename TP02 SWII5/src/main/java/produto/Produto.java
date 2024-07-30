@@ -1,4 +1,4 @@
-//Roberto Junior ; Mariana C. da Luz
+//Roberto Junior ; 
 package produto;
 
 public class Produto {
