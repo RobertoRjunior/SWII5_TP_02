@@ -1,4 +1,4 @@
-//Roberto Junior; Mariana C.da Luz
+//Roberto Junior; 
 package produto;
 import java.io.IOException;
 
